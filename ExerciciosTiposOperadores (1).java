@@ -15,7 +15,7 @@ class ExercicioTabuada {
 class Exercicio1 {
     public static void main(String[] args) {
         System.out.println("Nome completo: Vinicius");
-        System.out.println("RA: COLOQUE_SEU_RA_AQUI");
+        System.out.println("RA: 06356220");
         System.out.println("Curso: Análise e Desenvolvimento de Sistemas");
     }
 }
@@ -23,8 +23,8 @@ class Exercicio1 {
 // Exercício 2
 class Exercicio2 {
     public static void main(String[] args) {
-        int idade = 0; // Troque pela sua idade
-        double altura = 0.0; // Troque pela sua altura em metros
+        int idade = 20; // 
+        double altura = 1.84; 
         String status = "Presente";
 
         System.out.println("Idade: " + idade);
